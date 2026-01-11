@@ -1,4 +1,4 @@
-# gitignore
+# gitignore-collection
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
 
@@ -10,8 +10,8 @@ This is GitHub’s collection of [`.gitignore`][man] file templates.
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/gitignore.git
-cd gitignore
+git clone https://github.com/amitdubeyup/gitignore-collection.git
+cd gitignore-collection
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-gitignore/
+gitignore-collection/
 ├── .env.example
 ├── README.md
 ```
